@@ -1,0 +1,11 @@
+myheaders: {'Content-type' : 'application/json'}
+url : http://10.114.34.155/ins
+url1 : http://10.114.34.156/ins
+nexus1: "HR515"
+nexus2 : "HR516"
+username : admin
+password : Netseg2016
+pk1_source :  10.114.34.155
+pk1_destination : 10.114.34.156
+pk2_source : 10.114.34.156
+pk2_destination : 10.114.34.155
